@@ -11,11 +11,6 @@ Cartoon image rendering using OpenCV
 - Adaptive Threshold를 이용한 윤곽선 추출
 - 색상 이미지와 윤곽선을 결합하여 만화 효과 생성
 
-## 실행 방법
-
-    python main.py
-
-입력 이미지 파일(`slamdunk22.jpg`, `bad.jpg`)은 코드와 같은 폴더에 있어야 한다.
 
 ## 결과
 
